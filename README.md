@@ -1,6 +1,9 @@
 # flutter_method_channel
 
-A new Flutter project.
+Using MethodChannel to connect Flutter and Swift
+
+Flow
+![image](https://github.com/OtisLin123/FlutterMethodChannel/blob/main/MethodChannel.drawio.png)
 
 ## Getting Started
 
